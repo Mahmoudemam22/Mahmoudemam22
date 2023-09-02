@@ -18,12 +18,12 @@
 - 👨‍💻 Check out my portfolio at https://google.com to see some of the projects I've worked on.
 
 
-### Connect with Me :
+### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/mahmoud-emam-7a532a23b/" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Emam-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/@mahmoudemam12" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Emam-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-
-
+<br />
+---
 
 ### 👨‍💻 Languages and Tools
 <img align="left" alt="HTML5" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -44,6 +44,7 @@
 <img align="left" alt="VS Code"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <br />
 <br />
+---
 
 
 
