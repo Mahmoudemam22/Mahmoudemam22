@@ -25,15 +25,7 @@
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2> 
 
 
-### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/mahmoud-emam-7a532a23b/" target="blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-<a href="https://t.me/@mahmoudemam12" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Emam-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="mailto:mahmoudemam028@gmail.com.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me via Gmail"/></a>
-<br />
-
-
----
 
 ### 👨‍💻 Languages and Tools
 <img align="left" alt="HTML5" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -58,6 +50,8 @@
 <br />
 <br />
 
+<hr />
+
 <h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35"> Github Stats </h2>
 
 <p align="center">
@@ -73,10 +67,17 @@
 
 
 <hr>
+<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> 🤝 Connect with me </h2>
 
 <p align="center">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mahmoudemam22&label=Profile%20views&color=0e75b6&style=flat" alt="kamal-eltatawy" /> </p>
+<a href="https://www.linkedin.com/in/mahmoud-emam-7a532a23b/" target="blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+<a href="https://t.me/@mahmoudemam12" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Emam-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="mailto:mahmoudemam028@gmail.com.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me via Gmail"/></a>
+
+<p align="center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mahmoudemam22&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoudemam22" /> </p>
 </p>
-      
+
+
 
 
