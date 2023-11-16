@@ -40,11 +40,9 @@ jobs:
           tags: |
             platane/snk:${{ github.sha }}
             platane/snk:${{ github.event.inputs.version }}
-
       - name: update action.yml to point to the newly created docker image
         run: |
           sed -i "s/image: .*/image: docker:\/\/platane\/snk@${{ steps.docker-build.outputs.digest }}/" action.yml
-
       - uses: actions/setup-node@v3
         with:
           cache: yarn
@@ -56,7 +54,6 @@ jobs:
           npm run build:action
           rm -r svg-only/dist
           mv packages/action/dist svg-only/dist
-
       - name: bump package version
         run: yarn version --no-git-tag-version --new-version ${{ github.event.inputs.version }}
 
@@ -64,14 +61,12 @@ jobs:
         id: push-tags
         run: |
           VERSION=${{ github.event.inputs.version }}
-
           git config --global user.email "bot@platane.me"
           git config --global user.name "release bot"
           git add package.json svg-only/dist action.yml
           git commit -m "📦 $VERSION"
           git tag v$VERSION
           git push origin main --tags
-
           if [[ "$VERSION" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
             git tag v$( echo $VERSION | cut -d. -f 1-1 )
             git tag v$( echo $VERSION | cut -d. -f 1-2 )
@@ -80,7 +75,6 @@ jobs:
           else 
             echo "prerelease=true" >> $GITHUB_OUTPUT
           fi
-
       - uses: ncipollo/release-action@v1.12.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
