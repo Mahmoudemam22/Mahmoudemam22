@@ -55,6 +55,8 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/font-awesome/font-awesome-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <code><img width="15%" height="65px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg""></code>
+  <code><img width="15%" height="65px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
  
 <br />
 <br />
@@ -87,8 +89,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mahmoudemam22&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoudemam22" /> </p>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mahmoudemam22" alt="Mahmoudemam22" /></a> </p> 
-
-
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mahmoudemam22" alt="Mahmoudemam22" /></a> </p> -->
 
 
