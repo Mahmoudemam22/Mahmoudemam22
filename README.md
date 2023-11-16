@@ -73,11 +73,10 @@
 <a href="https://github.com/Mahmoudemam22">
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Mahmoudemam22&show_icons=true&theme=gruvbox&hide_border=true" />
 <!-- <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoudemam22&theme=gruvbox&hide_border=true" />
-</a> -->
-</p>
+</a> 
+</p> -->
 
 
-<hr> -->
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> 🤝 Connect with me </h2>
 
 <p align="center">
@@ -113,7 +112,7 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Mahmoud emam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mahmoudemam22&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	    <img alt="Mahmoud emam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mahmoudemam22&show_icons=true&theme=gruvbox&hide_border=true" height="230px"/></a>
 	 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoudemam22&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mahmoudemam22" height="230px"/> -->
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoudemam22&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="Mahmoudemam22" height="230px"/>
 <br/>
