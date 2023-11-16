@@ -11,7 +11,8 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: Platane/snk@v2.1.0 # Replace with the latest version
+
 
       - name: Generate Snake SVG
         uses: Platane/snk@v2
