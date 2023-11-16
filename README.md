@@ -63,7 +63,7 @@
 
 <hr />
 
-<h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35"> Github Stats </h2>
+<!-- <h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35"> Github Stats </h2>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoudemam22&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="Mahmoud-Emam" />
@@ -77,7 +77,7 @@
 </p>
 
 
-<hr>
+<hr> -->
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> 🤝 Connect with me </h2>
 
 <p align="center">
@@ -114,7 +114,8 @@
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="Mahmoud emam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mahmoudemam22&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoudemam22&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mahmoudemam22" height="230px"/>
+	 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoudemam22&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mahmoudemam22" height="230px"/> -->
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoudemam22&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="Mahmoudemam22" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
