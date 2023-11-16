@@ -112,9 +112,9 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Mahmoud emam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mahmoudemam22&show_icons=true&theme=gruvbox&hide_border=true" height="230px"/></a>
+	    <img alt="Mahmoud emam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mahmoudemam22&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoudemam22&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mahmoudemam22" height="230px"/> -->
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoudemam22&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="Mahmoudemam22" height="230px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudemam22&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,321575,8D0B93,FF057C" alt="Mahmoudemam22" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
