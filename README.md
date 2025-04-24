@@ -44,8 +44,8 @@
   </p>
   
   ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Backend Development
-  <p align="left">
-	<img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,mysql,postgresql,sqlite,redis,postman,azure,docker,git,github"/>
+  <p align="center">
+	<img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,postgresql,redis,postman,azure,docker,git,github"/>
   </p>
   
 ---
