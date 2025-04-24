@@ -6,8 +6,7 @@
  
 
 <h3 align="center">
-  Welcome to My GitHub profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Software Engineer | Full Stack .NET Developer
 </h3>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
@@ -25,10 +24,8 @@
 <br />
 
 
+<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
 
-
-
-<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> 🤝 Connect with me </h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mahmoud-emam-7a532a23b" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Emam-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -36,57 +33,21 @@
 <a href="https://wa.me/+201127601306" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Emam-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 <a href="mailto:mahmoudemam028@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Emam-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
 <p align="center">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mahmoudemam22&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoudemam22" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mahmoudemam22&label=Profile%20views&color=0e75b6&style=flat"   height="28" alt="Mahmoudemam22" /> </p>
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
-
-<p align="center"> 
-<code><img width="15%" height="65px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
- <code><img width="15%" height="65px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg""></code>
-  <code><img width="15%" height="65px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code> 
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-</p>
-
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%>  Frontend Development
+  <p align="center">
+	<img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,sass,typescript,angular"/>
+  </p>
   
- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%>  Backend Development
-<code><img width="15%" height="65px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
-  <code><img width="15%" height="65px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></code>
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-    <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-    
- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/font-awesome/font-awesome-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/lesscss/lesscss-ar21.svg"></code> 
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
-
- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%>  Operating Systems
- <p align="center"> 
-     <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
- </p>
-
+  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Backend Development
+  <p align="left">
+	<img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,mysql,postgresql,sqlite,redis,postman,azure,docker,git,github"/>
+  </p>
+  
 ---
 
 <p align = "center">
