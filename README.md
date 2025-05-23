@@ -10,19 +10,21 @@
 </h3>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
- 
 
- 🏢 I'm a Full Stack Dot Net Developer.
-- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with CSharp, DotNet, Angular, and MsSql, or anything related to web development.
-- ⚡ Fun Fact: **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *The 𝙴𝚗𝚍.***
-- 📝 &nbsp; Checkout my [Resume] .. soon will come here ;)
-<!-- 👨‍💻 Check out my portfolio at Come Soon to see some of the projects I've worked on.*-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<br />
+### :man_technologist: About Me :
+With a degree in Computer Science and a deep passion for technology, I specialize in crafting scalable, high-performance back-end solutions using ASP.NET Core and C#. My expertise spans SQL Server, Entity Framework, RESTful APIs, and Git, enabling me to deliver robust, efficient web applications.
+Driven by a love for problem-solving, I thrive on tackling complex challenges and staying ahead of industry trends. Alongside my core skills, I’m well-versed in modern technologies like Microservices, DDD, CQRS, gRPC, Redis, MongoDB, RabbitMQ, and front-end essentials like HTML, CSS, JavaScript, Typescript, Angular and MVC.
+I’m passionate about continuous learning and growth, always eager to connect with like-minded professionals and explore innovative ideas in the tech community. 
+Let’s connect and build the future of technology together!
+- :seedling: As a Software Engineer and i'm trying to build applications which solve people problems.
+- :telescope: Always looking forward to learn cutting-edge technologies and explore tech world.
+<br>
 
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+
+
+<br>
 
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
 
@@ -40,12 +42,12 @@
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%>  Frontend Development
   <p align="center">
-	<img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,sass,typescript,angular"/>
+	<img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,sass,typescript,angular,git,github"/>
   </p>
   
   ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Backend Development
   <p align="center">
-	<img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,postgresql,redis,postman,azure,docker,git,github"/>
+	<img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,postgresql,redis,postman,azure,docker,grpc,graphql,mongodb"/>
   </p>
   
 ---
@@ -71,7 +73,6 @@
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="Mahmoud emam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mahmoudemam22&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoudemam22&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mahmoudemam22" height="230px"/> -->
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudemam22&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,321575,8D0B93,FF057C" alt="Mahmoudemam22" height="230px"/>
 <br/>
 
@@ -97,23 +98,6 @@
 	
 </details>
 	
-<!-- <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/Mahmoudemam22/Talabat">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Mahmoudemam22/Food-Space">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	
-  </p>
-</div>
-</details> -->
-
 </br></br>
 	
 ## 🐍 A Snake Eating My Contributions Graph
