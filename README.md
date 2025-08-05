@@ -14,7 +14,7 @@
 
 ### :man_technologist: About Me :
 With a degree in Computer Science and a deep passion for technology, I specialize in crafting scalable, high-performance back-end solutions using ASP.NET Core and C#. My expertise spans SQL Server, Entity Framework, RESTful APIs, and Git, enabling me to deliver robust, efficient web applications.
-Driven by a love for problem-solving, I thrive on tackling complex challenges and staying ahead of industry trends. Alongside my core skills, I’m well-versed in modern technologies like Microservices, DDD, CQRS, gRPC, Redis, MongoDB, RabbitMQ, and front-end essentials like HTML, CSS, JavaScript, Typescript, Angular and MVC.
+Driven by a love for problem-solving, I thrive on tackling complex challenges and staying ahead of industry trends. Alongside my core skills, I’m well-versed in modern technologies like Microservices, DDD, CQRS, gRPC, Redis, MongoDB, RabbitMQ, and front-end essentials like HTML, CSS, JavaScript, Typescript, Angular, React and MVC.
 I’m passionate about continuous learning and growth, always eager to connect with like-minded professionals and explore innovative ideas in the tech community. 
 Let’s connect and build the future of technology together!
 - :seedling: As a Software Engineer and i'm trying to build applications which solve people problems.
@@ -42,7 +42,7 @@ Let’s connect and build the future of technology together!
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%>  Frontend Development
   <p align="center">
-	<img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,sass,typescript,angular,git,github"/>
+	<img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,sass,typescript,angular,react,git,github"/>
   </p>
   
   ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Backend Development
